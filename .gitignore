@@ -1,0 +1,20 @@
+# Python & virtual environment
+venv/
+__pycache__/
+*.py[cod]
+# Distribution / packaging
+build/
+*.egg-info/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# VS Code settings
+.vscode/
+# PyCharm settings
+.idea/
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+# Log files
+*.log
+# Environment files
+.env

@@ -1,0 +1,6 @@
+faster-whisper
+edge-tts
+google-genai
+pydub
+python-dotenv
+yt-dlp
