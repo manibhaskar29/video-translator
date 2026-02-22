@@ -18,3 +18,8 @@ Thumbs.db
 *.log
 # Environment files
 .env
+# Media files
+*.wav
+*.mp4
+*.avi
+*.mov
